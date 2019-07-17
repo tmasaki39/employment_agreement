@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee_name: MyString
+  hire_date: 2019-07-18
+  working_prace: MyText
+  business_content: MyText
+  contract_period_flg: 1
+  contract_period: 2019-07-18
+  trial_period_flg: 1
+  trial_period: 2019-07-18
+  fulltime_flg: 1
+  labor_system_flg: 1
+  employment_status: 1
+  start_worltime: MyString
+  end_worktime: MyString
+  brake_time: 1
+  scheduled_time: 1
+  holiday: MyText
+  paid_holiday: MyText
+  other_holiday: MyText
+  retirement_age: 1
+
+two:
+  employee_name: MyString
+  hire_date: 2019-07-18
+  working_prace: MyText
+  business_content: MyText
+  contract_period_flg: 1
+  contract_period: 2019-07-18
+  trial_period_flg: 1
+  trial_period: 2019-07-18
+  fulltime_flg: 1
+  labor_system_flg: 1
+  employment_status: 1
+  start_worltime: MyString
+  end_worktime: MyString
+  brake_time: 1
+  scheduled_time: 1
+  holiday: MyText
+  paid_holiday: MyText
+  other_holiday: MyText
+  retirement_age: 1
